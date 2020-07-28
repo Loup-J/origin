@@ -1,2 +1,2 @@
-vr text = "hello world"
+vr text = "hello world lol"
 alert("hello world")
