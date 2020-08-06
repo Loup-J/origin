@@ -1,2 +1,2 @@
-vr text = "hello world lol"
+var text = "hello world lol"
 alert("hello world")
